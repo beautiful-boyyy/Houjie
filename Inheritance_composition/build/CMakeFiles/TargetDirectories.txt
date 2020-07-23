@@ -1,3 +1,0 @@
-/home/ben/Desktop/Houjie/Inheritance_composition/build/CMakeFiles/rebuild_cache.dir
-/home/ben/Desktop/Houjie/Inheritance_composition/build/CMakeFiles/edit_cache.dir
-/home/ben/Desktop/Houjie/Inheritance_composition/build/CMakeFiles/test1.dir
